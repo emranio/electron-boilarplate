@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# misc
+.cache
+.parcel-cache
+.DS_Store
+.idea
+
+# log
+npm-*.log
+yarn-*.log
